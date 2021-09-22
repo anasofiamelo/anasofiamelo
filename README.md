@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anasofiamelo
-- 👀 I’m interested in FrontEnd (Javascript, Frameworks, CSS, HTML)
-- 🌱 I’m currently learning Javascript!!
-- 💞️ I’m looking to collaborate on companies that wants to teach :)
+- 👀 I’m interested in being a Full-stack Developer (JS, Node.JS, CSS, HTML)
+- 🌱 I’m currently learning JS Frameworks!
+- 💞️ I’m looking to collaborate with companies that wants to teach :)
 - 📫 @sofiamelod@gmail.com
 
 <!---
