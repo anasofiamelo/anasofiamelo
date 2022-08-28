@@ -1,5 +1,5 @@
-- oie!
-- no momento estudando frameworks js
+- oi!
+- respirando react e tentando dominar js ao máximo
 - @sofiamelod@gmail.com
 
 <div>
