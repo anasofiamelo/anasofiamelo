@@ -1,6 +1,6 @@
 - full-stack
 - react/node developer
-- @sofiamelod@gmail.com
+- solving some problems
 
 <div>
   <a href="https://github.com/anasofiamelo">
