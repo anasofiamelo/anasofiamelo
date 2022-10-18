@@ -1,5 +1,5 @@
-- oi!
-- respirando react e tentando dominar js ao máximo
+- full-stack
+- react/node developer
 - @sofiamelod@gmail.com
 
 <div>
